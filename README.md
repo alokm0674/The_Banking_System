@@ -1,12 +1,8 @@
 **BasicBankingSystem**
 
-Sparks Foundation Web Development Internship Project : Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
+Sparks Foundation Web Development Internship Project #june2023: Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
 
 The website has the following specification -
-Start with a dummy data for upto 10 customers. Customers table with basic fields such as name, email, current balance etc. Transaction status: Transfer table/ Transfer History which records all the transactions
+This webiste holds the data of 10 dummy customers. Entering their emails and amount, you can transfer the money from your wallet. The amount will be deducted from your account and added to the mentioned name account. You can see the transaction history as well. 
 
-Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
-
-website link:
-
-https://github.com/alokm0674/The_Banking_System.git
+Flow of the web pages: Home Page > Customer > Send Money to mentioned Names> Transfer Money > If you want you can return back to the main page. 
